@@ -6,9 +6,9 @@ Info grupo de teatro Benito Martin Lozano
 ### 1. Las aceitunas
 
 * Genero ( cómico, drama,..)
-* Autor
-* Extwension en paginas A4
-* Numero de personajes principales/secundarios: 
+* Autor : Lope de Rueda
+* Extwension en paginas A4 : 4
+* Numero de personajes principales/secundarios: 3
 * Resumen trama
 * Tiempo (se desarrolla en 1 solo tiempo o  varios periodos)
 * Espacios (se desarrolla en un solo espacio o varios)
