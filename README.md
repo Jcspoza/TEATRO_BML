@@ -1,8 +1,6 @@
 # TEATRO_BML
 
-Info grupo de teatro Benito Martin Lozano
-
-## 
+Info grupo de teatro del CMM ***'Benito Martin Lozano'***
 
 ## Listado de obras para Selecció1
 
@@ -26,16 +24,16 @@ Info grupo de teatro Benito Martin Lozano
   - Dios.pdf - [Dios.pdf - Google Drive](https://drive.google.com/file/d/1U8FnYdO13B-UbbSLyXZneJIesM_Ld77q/view?usp=sharing)
   - Drogas.pdf - [Drogas.pdf - Google Drive](https://drive.google.com/file/d/1JXbY8mPvaFF31RNdAU6MS5Y0W2CMBs48/view?usp=sharing)
   - Espalda.pdf - [Espalda.pdf - Google Drive](https://drive.google.com/file/d/1LlcbG4VVC1CKf5mGerXjG5YOLpHPFSXf/view?usp=sharing)
-  - Fantasma.pdf
-  - Manos.pdf
-  - Mentir.pdf
-  - Metamorfosis.pdf
-  - Mosquito.pdf
-  - Pajarito.pdf
-  - Primerizo.pdf
-  - Rehen.pdf
-  - Secuestro.pdf
-  - Seguir.pdf
+  - Fantasma.pdf - [Fantasma.pdf - Google Drive](https://drive.google.com/file/d/1Klzjn8rBH3MbuX0EOQhReKsEYe-jo_Re/view?usp=sharing)
+  - Manos.pdf - [Manos.pdf - Google Drive](https://drive.google.com/file/d/1GWw167meU5wT2uCNRrp2NU39EeOMwWet/view?usp=sharing)
+  - Mentir.pdf - [Mentir.pdf - Google Drive](https://drive.google.com/file/d/1hFJh3v56VwdJea0CTfU-mkUWmX0xD-dz/view?usp=sharing)
+  - Metamorfosis.pdf - [Metamorfosis.pdf - Google Drive](https://drive.google.com/file/d/1bUbhCM1GWabj8MCVHgGVx1TR4CrNT-SD/view?usp=sharing)
+  - Mosquito.pdf - [Mosquito.pdf - Google Drive](https://drive.google.com/file/d/1eIs9_eXgumG_XEn3gmRUpl46CBt3rtZ4/view?usp=sharing)
+  - Pajarito.pdf - [Pajarito.pdf - Google Drive](https://drive.google.com/file/d/1glGSZOkTy9HeQTgFTVB5zq2vlcC8WHq6/view?usp=sharing)
+  - Primerizo.pdf - [Primerizo.pdf - Google Drive](https://drive.google.com/file/d/1rEiJMxLADRC5Ea0pikdsmqVv15ycjXxD/view?usp=sharing)
+  - Rehen.pdf - [Rehen.pdf - Google Drive](https://drive.google.com/file/d/1qvtEInZ49ifrJDxsTc_TV-xMiSr1DG5S/view?usp=sharing)
+  - Secuestro.pdf - [Secuestro.pdf - Google Drive](https://drive.google.com/file/d/1DW68sjJB320Gb02CqtFFfyBiSvb3vkvC/view?usp=sharing)
+  - Seguir.pdf - [Seguir.pdf - Google Drive](https://drive.google.com/file/d/1T_EDXEFz78r51N-Pr8OqutZEoGvLLYOS/view?usp=sharing)
 
 ### 2. Las aceitunas
 
@@ -79,4 +77,4 @@ Video de obra completa en Estudio 1 - ( su obra mas reputada) : [Estudio 1 - Cer
 
 #### Opinión / Decision
 
-La opinión del grupo fue desfavorable, en términos generales 
+La opinión del grupo fue desfavorable, en términos generales e
