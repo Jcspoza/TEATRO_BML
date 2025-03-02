@@ -1,3 +1,5 @@
+### 3. Teatro Breve de Alonso de Santos - 50 obras cortas
+
 # TEATRO_BML
 
 Info grupo de teatro del CMM ***'Benito Martin Lozano'***
@@ -47,17 +49,120 @@ Info grupo de teatro del CMM ***'Benito Martin Lozano'***
 * Porque os gusta
 * Enlace para leer o bajar el fichero : [Las aceitiunas](https://drive.google.com/file/d/12pfWHfCS2ozrEAyv6qG5nnq-45Zxm6RB/view?usp=sharing)
 
-### 3. Alfonso Sastre - 50 ....
+### 3. Teatro Breve de Alonso de Santos - 50 obras cortas
 
 - Genero ( cómico, drama,..)
-- Autor : 
-- Extension en paginas A4 : 
-- Numero de personajes principales/secundarios: 
-- Resumen trama
-- Tiempo (se desarrolla en 1 solo tiempo o varios periodos)
-- Espacios (se desarrolla en un solo espacio o varios)
+
+- Autor : **Alonso de Santos**
+
+- Extension en paginas A4 : 120
+
+- Selección de obras **PENDIENTE**
+
 - Porque os gusta
-- Enlace para leer o bajar el fichero : 
+
+- Enlace para leer o bajar el fichero : [teatro-breve-de-alonso-de-santos-50-obras-cortas.pdf - Google Drive](https://drive.google.com/file/d/1Yl8lkvd8bIEvxIHPY8XLKzCnjpRCWUfk/view?usp=sharing)
+
+- Indice de las 50 obras:
+1. Agosto
+
+2. Aguda espina dorada
+
+3. Amor divino, amor humano
+
+4. Amor líquido
+
+5. Atrofia
+
+6. Azul y rojo
+
+7. Breve encuentro
+
+8. Buenos días, Señor Doctor
+
+9. Carta de amor a Mary
+
+10. Club Dulcinea
+
+11. Como niños
+
+12. Complejo de mucha castración
+
+13. Confidencias de mujer
+
+14. Diez euros la copa
+
+15. Dinero y amor
+
+16. Domingo mañana
+
+17. Ecografía muy húmeda
+
+18. Edificio okupado
+
+19. El alabardero de la reina
+
+20. El famoso ciclo de la naturaleza
+
+21. El honor de la patria
+
+22. El paraíso no fue como nos lo contaron
+
+23. Entre colegas
+
+24. Entre rejas
+
+25. Hare Krishna
+
+26. Intercambios
+
+27. la bola del mundo
+
+28. La chica de los ojos azules
+
+29. La línea roja
+
+30. La penúltima copa
+
+31. Lapislázuli
+
+32. Las frutas del amor
+
+33. Lavabo de señoras
+
+34. Leche cortada
+
+35. Lo que no pudo ser
+
+36. Maletas
+
+37. Minimalismo
+
+38. Mujeres de vida fácil
+
+39. Problemas conyugales
+
+40. Profesionales
+
+41. Promesa de amor
+
+42. Secretos eróticos
+
+43. Sinceridad
+
+44. Tiempos modernos
+
+45. Un bocadillo de higadillos
+
+46. Una cuestión de honor
+
+47. Una pequeña confusión
+
+48. Una verdadera mártir
+
+49. Videojuegos
+
+50. Zeta
 
 ### 4. Isabelita la Miracielos
 
