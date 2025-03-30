@@ -1,10 +1,14 @@
-### 3. Teatro Breve de Alonso de Santos - 50 obras cortas
-
 # TEATRO_BML
 
 Info grupo de teatro del CMM ***'Benito Martin Lozano'***
 
-## Listado de obras para Selecció1
+## Información Técnica Teatral
+
+### Cualidades de la voz
+
+ "[Glosario de Términos Relacionados con la Voz en el Teatro](https://drive.google.com/file/d/1T_i4gOgEjN2N43eISUi2a5TAw62mm_4Z/view?usp=drive_link)" que recoge los términos sobre los que hemos hablado el lunes 24 de Marzo de 2025
+
+## Listado de obras para Selección
 
 ### 1- Selección de '100 viajes en ascensor' cortas de Ascensor
 
