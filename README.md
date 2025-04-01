@@ -10,6 +10,19 @@ Info grupo de teatro del CMM ***'Benito Martin Lozano'***
 
 ## Listado de obras para Selección
 
+### 0- Obra Seleccionada:  'Acuerdo para cambiar de casa' de  Gambaro Griselda
+
+[Acuerdo para cambiar de casa. Gambaro Griselda TEATRO BREVE (1H-5M) ESP.pdf - Google Drive](https://drive.google.com/file/d/176Kolu2BHQ7saKQdYlkOR42hQXklN1MB/view?usp=drive_link)
+
+- Genero ( cómico, drama,..)
+- Autor : **Griselda Gambaro**
+- Extension en paginas A4 : 8
+- Numero de personajes principales/secundarios: 5 mujeres + 1 hombre
+- Resumen trama
+- Tiempo (se desarrolla en 1 solo tiempo o varios periodos)
+- Espacios (se desarrolla en un solo espacio o varios)
+- Porque nos gusta
+
 ### 1- Selección de '100 viajes en ascensor' cortas de Ascensor
 
 - Genero ( cómico, drama,..) : predomina el **humor** absurdo
